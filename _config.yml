@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "about SweetHomicide description"
+sidebar-about-description: "一个喜欢音乐且有灵魂的技术玩家"
 sidebar-avatar: /img/homicide/avatar-sweet-homicide.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
