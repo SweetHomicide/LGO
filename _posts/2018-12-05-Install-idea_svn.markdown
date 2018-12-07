@@ -55,4 +55,23 @@ tags:
    
   ![](https://i.imgur.com/poctLmQ.png)
 
+## 2.IDEA配置SVN
+
+>  在idea中打开设置(Ctrl+Alt+s)
+    
+   ![](https://i.imgur.com/VqDxeN0.png)
+
+>  点击Version Control 选择 Subversion选项进行配置
+
+   ![](https://i.imgur.com/WQHYhXm.png)
+
+>  配置Use command line client为刚刚安装的SVN路径；
+   
+   ![](https://i.imgur.com/EccABNn.png)
+
+>  配置完成后重新启动IDEA，从SVN库中拉去项目 (点击VCS - checkout from version control - Subversion)
+   
+   ![](https://i.imgur.com/OqzW8Ch.png)
+
+   ![](https://i.imgur.com/b1C42lH.png)
    
