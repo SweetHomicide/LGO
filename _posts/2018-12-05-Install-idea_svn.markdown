@@ -4,7 +4,7 @@ title:      IDEA配置SVN
 subtitle:   IDEA配置SVN
 date:       2018-12-05
 author:     SweetHomicide
-header-img: img/homicide/avatar-sweet-homicide.jpg
+header-img: img/homicide/home-bg.jpg
 catalog: true
 tags:
     - IDEA
