@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      理解JAVA单例模式
@@ -10,8 +9,7 @@ catalog: true
 tags:
     - 设计模式
     - 单例模式
-    - 线程安全
-  
+    - 线程安全 
 ---
 
 
