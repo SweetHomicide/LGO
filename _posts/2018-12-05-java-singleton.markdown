@@ -1,4 +1,19 @@
 
+---
+layout:     post
+title:      理解JAVA单例模式
+subtitle:   理解JAVA单例模式
+date:       2018-12-05
+author:     SweetHomicide
+header-img: img/homicide/home-bg.jpg
+catalog: true
+tags:
+    - 设计模式
+    - 单例模式
+    - 线程安全
+  
+---
+
 
 # 理解JAVA单例模式 
 ### **什么是单例模式**
