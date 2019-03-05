@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      Idea maven 构建项目多模块开发手册
+subtitle:   Idea maven 构建项目多模块开发手册
+date:       2018-12-05
+author:     V
+header-img: img/homicide/home-bg.jpg
+catalog: true
+tags:
+    - Maven
+    - Springboot
+    - 多模块开发
+---
+
 # Idea maven 构建项目多模块开发手册
 
 ### 构建maven顶级项目
