@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Idea maven 构建项目多模块开发手册
-subtitle:   Idea maven 构建项目多模块开发手册
-date:       2018-12-05
+subtitle:   构建项目多模块开发手册
+date:       2019-03-05
 author:     V
 header-img: img/homicide/home-bg.jpg
 catalog: true
