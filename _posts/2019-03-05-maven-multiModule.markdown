@@ -1,4 +1,4 @@
-#Idea maven 构建项目多模块开发手册
+# Idea maven 构建项目多模块开发手册
 
 ### 构建maven顶级项目
   
