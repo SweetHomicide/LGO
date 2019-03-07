@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      zookpeer win10 启动闪退
+subtitle:   zookpeer win10 启动闪退
+date:       2018-12-05
+author:     SweetHomicide
+header-img: img/homicide/home-bg.jpg
+catalog: true
+tags:
+    - zookpeer
+    - win10
+    - 启动闪退 
+---
+
 #zookpeer win10 启动闪退
 
 ### 版本:zookeeper-3.4.13
